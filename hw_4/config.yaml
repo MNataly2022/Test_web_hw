@@ -1,0 +1,10 @@
+address: https://test-stand.gb.ru
+browser: firefox
+sleep_time: 3
+
+login: User_1_Login
+pwd: 6f831d56c2
+
+name: Nataly
+email: nmalova@mail.ru
+em_pwd: none
